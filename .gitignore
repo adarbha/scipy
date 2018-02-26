@@ -30,6 +30,7 @@ tags
 *.py[ocd]
 *.so
 _configtest.c
+*.pyc
 
 # Packages #
 ############
